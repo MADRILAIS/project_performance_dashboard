@@ -1,7 +1,7 @@
 # 📊 Project Manager Performance Dashboard
 
 ## 🎯 Objectif
-Mettre en place un outil de suivi et d’évaluation de la performance des chefs de projets à travers des indicateurs clés (KPI).
+Concevoir un tableau de bord de suivi et d’évaluation de la performance des chefs de projets, basé sur des indicateurs clés (KPI), afin d’améliorer le pilotage des activités ICT et la prise de décision.
 
 ## 📌 Contexte
 Dans le cadre du pilotage des activités ICT, ce dashboard permet de suivre l’évolution des projets, mesurer la performance des chefs de projets et faciliter la prise de décision.
